@@ -1,7 +1,7 @@
 # ROAM
 
 **ROAM** is an all-in-one group travel planning application developed by **Team Synthesize**. It is designed to make trip planning more organized by bringing itinerary planning, shared expenses, place discovery, travel preparation, and group collaboration into one platform.
-Video Presentation: [Unlisted Youtube Link] 
+Video Presentation: https://youtu.be/z9mLsFtf37g
 Presentation Slides: https://canva.link/ayhpnj4ei2m82d2 
 
 ## Team Synthesize
